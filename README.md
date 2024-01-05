@@ -1,4 +1,4 @@
-#Projet open-api avec admin app
+# Projet open-api avec admin app
 
 Etant donné que c'est un projet springboot avec la version `2.7.3` et avec un java `1.8`, il est necessaire d'ajouter la dépendance suivante au niveau du pom.xml pour qu'on puisse accéder à `open-api`.
 ```
