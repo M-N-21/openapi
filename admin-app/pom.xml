@@ -125,7 +125,11 @@
 			<scope>test</scope>
 		</dependency>
 		<!--  Test container  -->
-
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-ui</artifactId>
+			<version>1.7.0</version> <!-- Assurez-vous de vérifier la dernière version disponible -->
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -170,6 +174,7 @@
 					</excludes>
 				</configuration>
 			</plugin>
+
 		</plugins>
 	</build>
 
