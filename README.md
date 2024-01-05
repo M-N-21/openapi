@@ -23,9 +23,9 @@ Ce qui fait pour y accéder on tape l'url suivante: `http://localhost:8081/api-d
 
 ### Capture de api-docs
 
-![image1](https://github.com/M-N-21/openapi/tree/main/admin-app/src/main/resources/captures/apidocs.PNG)
+![image1](https://github.com/M-N-21/openapi/blob/main/admin-app/src/main/resources/captures/apidocs.PNG)
 
 ### Capture de swagger
 
-![image2](https://github.com/M-N-21/openapi/tree/main/admin-app/src/main/resources/captures/swagger.PNG)
+![image2](https://github.com/M-N-21/openapi/blob/main/admin-app/src/main/resources/captures/swagger.PNG)
 
